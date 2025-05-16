@@ -1,0 +1,21 @@
+body{background-color:#f1f1f1 !important;}.anran{width:80%;max-width:630px;min-width:360px;display:flex;transform:translateX(-50%);position:absolute;left:50%;flex-direction:column;}@keyframes ball{from{color:green;background-position:0 0;}to{color:blue;background-position:15px 15px;}}.addr{background-color:#ecf5ff;width:min-content;height:32px;padding:0 10px;line-height:30px;font-size:12px;color:#409eff;border:1px solid #d9ecff;border-radius:4px;box-sizing:border-box;white-space:nowrap;}.btn11{display:inline-block;line-height:1;white-space:nowrap;cursor:pointer;background:#fff;border:1px solid #dcdfe6;color:#606266;-webkit-appearance:none;text-align:center;box-sizing:border-box;outline:none;margin:0;transition:0.1s;font-weight:500;-moz-user-select:none;-webkit-user-select:none;-ms-user-select:none;padding:6px 10px;font-size:14px;border-radius:5px;color:#fff;background-color:#e6a23c;border-color:#e6a23c;margin:0 0 20px;}.bt_color{background-color:#55cc55;border-color:#55cc55;}.ff{font-size:12px;}#alert_frame img{max-width:100% !important;}.anran-container{display:flex;flex-wrap:wrap;justify-content:space-evenly;align-items:center;flex-direction:row;padding:10px 0;}.anran-btn{display:inline-block;padding:4px 8px;margin:4px;border:1px solid #4f4f4f;border-radius:4px;transition:all 0.2s ease-in;position:relative;overflow:hidden;font-size:14px;color:black;z-index:1;cursor:pointer;user-select:none !important;}.anran-btn:hover{color:#ffffff;background:#39bda7;}
+        .anran_kami_title {
+             font-size: 19px;
+             font-weight: 500;
+        }
+        .anran_kami_info {
+            background: repeating-linear-gradient(45deg,hsl(0,0%,100%),hsl(0,0%,100%) 13px,hsl(0,0%,95%) 13px,hsl(0,0%,95%) 24px);
+            padding: 10px;
+            border-radius: 10px;
+            margin: 10px 0;
+            font-size: 15px;
+            border: 2px dotted #ffa702;
+            word-break: break-all;
+        }
+        .anran_kami_desc img {
+            width: 100% !important;
+        }
+         .layui-layer-rim{
+                max-height: 70%;
+    overflow: scroll;
+        }
